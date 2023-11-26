@@ -7,3 +7,5 @@ These files are extracted from the SAILDART archive maintained by Bruce Baumgart
 The whole program is contained in `EUR`, and has been confirmed to run in Interlisp Medley.
 
 More to come, including the Traveller-specific stuff.
+
+Discord: https://discord.gg/vhsmVCwgvK
