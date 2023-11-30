@@ -4,7 +4,7 @@ These files are extracted from the SAILDART archive maintained by Bruce Baumgart
 
 ## Notes
 
-The whole program is contained in `EUR`, and has been confirmed to run in Interlisp Medley.
+The whole program is contained in `EUR`. [seveno4](https://github.com/seveno4/EURISKO) is getting this running in [Medley Interlisp](https://interlisp.org/).
 
 More to come, including the Traveller-specific stuff.
 
