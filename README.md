@@ -8,8 +8,8 @@ These files are extracted from the SAILDART archive maintained by Bruce Baumgart
 
 The whole program is contained in `EUR`. [seveno4](https://github.com/seveno4/EURISKO) is getting this running in [Medley Interlisp](https://interlisp.org/).
 
-The [wiki](https://github.com/white-flame/eurisko/wiki) is active and open for anyone to post their knowledge and discoveries.
+I'm slowly working on a direct Common Lisp port [here](https://github.com/white-flame/eurisclo/).
 
-More to come, including the Traveller-specific stuff.
+The [wiki](https://github.com/white-flame/eurisko/wiki) is active and open for anyone to post their knowledge and discoveries.
 
 Discord: https://discord.gg/vhsmVCwgvK
